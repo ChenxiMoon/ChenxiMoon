@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning: 计算机图形学和自动驾驶算法。
 - 👯 I’m looking to collaborate on: 开源项目，尤其是与 Python 和 C++ 相关的。
 - 📫 How to reach me: 通过我的邮箱 [2403133073@qq.com]
+- 💡 是的，文件可见！（Yes, the files are visible!）
 
 ---
 
